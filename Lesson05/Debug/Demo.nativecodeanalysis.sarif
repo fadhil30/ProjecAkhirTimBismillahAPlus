@@ -1,0 +1,1465 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::shaderProgram' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::shaderProgram"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::VAO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::VAO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::VBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::VBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::EBO' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::EBO"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::texture' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::texture"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::VBO2' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::VBO2"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::VAO2' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::VAO2"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::EBO2' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::EBO2"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::texture2' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::texture2"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::viewCamX' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::viewCamX"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::viewCamY' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::viewCamY"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::viewCamZ' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::viewCamZ"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::upCamX' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::upCamX"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::upCamY' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::upCamY"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::upCamZ' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::upCamZ"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::posCamX' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::posCamX"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::posCamY' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::posCamY"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::posCamZ' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::posCamZ"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::CAMERA_SPEED' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::CAMERA_SPEED"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Demo::fovy' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 7,
+                  "endLine": 5,
+                  "endColumn": 7
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Demo::{ctor}",
+                  "decoratedName": "??0Demo@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Demo::fovy"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.33.31629.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///F:/Tugas Kuliah/Tugas Kuliah/Semester 5/GRAFKOM/Grafika Komputer dan Visualisasi/Grafika Komputer dan Visualisasi/vs/Lesson05/Demo.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "bc96a1370395d54c44c39369f34d7697cba63548f6c1467976e9dc8e5aa3a437"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/vs/lesson05/demo.h"
+          },
+          "hashes": {
+            "sha-256": "7ab8d3186bae3f0d15a43f4c78abb7c7150d9e0ada4493051a2d37d4729a7d21"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/vs/lesson05/renderengine.h"
+          },
+          "hashes": {
+            "sha-256": "df77fd397c327a993a5198ae2450287ec20ff3648b8eab6b4ab6ebfad177ab38"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glad/glad.h"
+          },
+          "hashes": {
+            "sha-256": "83ac58d5e5c25042ed2512418f0920f2bff74c3b9561ea8a77ca614490cf81c2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/khr/khrplatform.h"
+          },
+          "hashes": {
+            "sha-256": "fe7725728dc40d46134d9838d29e3bbbc95a70e77a1182a2be9ded6470a2378d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glfw/glfw3.h"
+          },
+          "hashes": {
+            "sha-256": "914ad3984cac2e6dd8665e3076d7a9e3c513717145a696a18155b9324ed9f1bb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/glm.hpp"
+          },
+          "hashes": {
+            "sha-256": "64169ee59805974d590b4c137ae3b599e7316f261f0e53687536e8006e5674d2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/_fixes.hpp"
+          },
+          "hashes": {
+            "sha-256": "12fd0a707f670cdaf436583e441ba80b68d4252616f3363d48f17329d164e392"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/fwd.hpp"
+          },
+          "hashes": {
+            "sha-256": "69ff968e534a6aa41a4dca3040108cad5d069adbfb0cb6d96e58697059a87a99"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_int.hpp"
+          },
+          "hashes": {
+            "sha-256": "278109c1c5116a0a35d1dbf1267cd0fbe8e9bb5bd7a7c388d788e828fd9c0c0f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/setup.hpp"
+          },
+          "hashes": {
+            "sha-256": "b808420b0edde5150af60923f5ded72d2ab81355110925eedc2e4c1cd8509039"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_float.hpp"
+          },
+          "hashes": {
+            "sha-256": "bf3ee2ec124b9c1f5d8fc832cdf2099331fc19629d8aad1b4b88096c8a39b21c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec.hpp"
+          },
+          "hashes": {
+            "sha-256": "59eab2eb7193e9886d3acb060258938eaf28830ba1aa73934b4d7f6992de057f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/precision.hpp"
+          },
+          "hashes": {
+            "sha-256": "a47d3ffe54d520477678162312ad9afa9c957db371f1bc5c24aed0da57840cbf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat.hpp"
+          },
+          "hashes": {
+            "sha-256": "e387ca19b0185868d2946396617818851f85a65abf10491e150c5e14e3f5a82a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/vec2.hpp"
+          },
+          "hashes": {
+            "sha-256": "404633ea2a675bf506d4ccf217bb7d56a0836ff7dc04dc87ca931fdf06cc832a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec2.hpp"
+          },
+          "hashes": {
+            "sha-256": "8c971da7af4b5a57bf30455b3cff1aa853a7c12c7a6db07fe0b23f942121094c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec2.inl"
+          },
+          "hashes": {
+            "sha-256": "1d120771b7a16df18ecf1d000223b92f5e7bf0bdbcbd415aa1ac603e38679e9a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/vec3.hpp"
+          },
+          "hashes": {
+            "sha-256": "4756d97a176ccd0e0c169a5f260f9f3d9d891baf296a0263ffd0d2d6bbb94e30"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec3.hpp"
+          },
+          "hashes": {
+            "sha-256": "1f3078365841be70865b146255585e3965d78746a91ce2bc348bf7cee9020f40"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec3.inl"
+          },
+          "hashes": {
+            "sha-256": "b813ff0ed9cabae0eaa448534dc61bdd169915520dde4267fec09cf3e39f429b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/vec4.hpp"
+          },
+          "hashes": {
+            "sha-256": "9af7781b18fe7813fa02253a70758d94d8e797d8833466a8b65e5fb375d9cb13"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec4.hpp"
+          },
+          "hashes": {
+            "sha-256": "58db684ab574c15a3c0af9ccd503b4cd9375c44551451f02c430f1a52198fd4e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec4.inl"
+          },
+          "hashes": {
+            "sha-256": "08ddf4b89a8b8fc62fa5db4d97665310e1d4619fc5a2c7a5e1a3e18ba4cc1ca3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec4_sse2.inl"
+          },
+          "hashes": {
+            "sha-256": "6cc22f4b8d47b699136968f53143a79afc7bcf23e0ac3c1d3ebe3af0826cd567"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/mat2x2.hpp"
+          },
+          "hashes": {
+            "sha-256": "5c567ff4bc8bf3a06e6658437a22b42f286484e50c8369516367fabd4807a223"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat2x2.hpp"
+          },
+          "hashes": {
+            "sha-256": "472098ec6f2ea09b0dffcb307065d9f27108a9a94c98da2b0cf063a0cbe165fb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat2x2.inl"
+          },
+          "hashes": {
+            "sha-256": "935f55abf8a54aec5c02acac17e0efca62c36040d4fbc01dd71e874f0c7272a8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/mat2x3.hpp"
+          },
+          "hashes": {
+            "sha-256": "286f2d14004f315a1173be020fa1d66fbe76c9cc9dc1ed7e87164cd6e3b505c4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat2x3.hpp"
+          },
+          "hashes": {
+            "sha-256": "604687d79160873143aa8ef5828f7fb8ac3c8f47cdf8c23e667b86b7e170fbe1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat2x3.inl"
+          },
+          "hashes": {
+            "sha-256": "8711c6d7f1be219eb2a811201bc3a51ee86e683b9bd834687e384c706f1544b3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/mat2x4.hpp"
+          },
+          "hashes": {
+            "sha-256": "febaa883773265e6b5826c2a7e80e898fd7f4c1b7d446dbd52010ad39c8c56aa"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat2x4.hpp"
+          },
+          "hashes": {
+            "sha-256": "62725aa4f12d703bea4a69e4890f6c2750e262087a1ce101a81e9f2ecf65961e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat2x4.inl"
+          },
+          "hashes": {
+            "sha-256": "5d4a221f714194e1b8755b0560e57ca65682c83066dae166fa92c8def7dc3be3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/mat3x2.hpp"
+          },
+          "hashes": {
+            "sha-256": "15d97f9c56f59b77e0d345568203722a6ed2dcd22aca01b6998ce600b96e763d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat3x2.hpp"
+          },
+          "hashes": {
+            "sha-256": "35e0354867cb0f5a817dc49a4ceaf9b45709b54b5af129d6b42b922b35f0ceed"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat3x2.inl"
+          },
+          "hashes": {
+            "sha-256": "beccdc464dfd5452811d3ac90741f7521b6e454a1234ca04e29e96f1bb7f93b2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/mat3x3.hpp"
+          },
+          "hashes": {
+            "sha-256": "19274a1f46cfde413dcc85145f5a299345bfc9913d959311f31e9ba914deed5f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat3x3.hpp"
+          },
+          "hashes": {
+            "sha-256": "b77817721b7a7c9141193d8dd78f80486938ced8c543d99ff54c636738070c53"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat3x3.inl"
+          },
+          "hashes": {
+            "sha-256": "f6e5f3cc3a21262b305e44c4b5cb0cd4cadaf96328e492e5bd6b4dd2706e9cb8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/mat3x4.hpp"
+          },
+          "hashes": {
+            "sha-256": "b685bb4029fe63bd13498f4cff4b629e8b8d215af073bf82b694e8c8e6e0d7a2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat3x4.hpp"
+          },
+          "hashes": {
+            "sha-256": "0805ecf037ecd8027cdf6c0e9ec0304aff49664e67086bcce048e8675585f39e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat3x4.inl"
+          },
+          "hashes": {
+            "sha-256": "459369bbff24eaf6b260cd90da69d29f5c1698376cc5087291625c556d3e2cd4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/mat4x2.hpp"
+          },
+          "hashes": {
+            "sha-256": "0101d056b6a30dad79504b2a76000120cacfc306060bc5064c844f1b47d0b720"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat4x2.hpp"
+          },
+          "hashes": {
+            "sha-256": "5d0f10cfca4fe479309126da52b105210889e3ec064058de4e72a3931f9675c2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat4x2.inl"
+          },
+          "hashes": {
+            "sha-256": "140894ee8167503da3dbb20641271c1ece617a55b409bfca7e1692b7e8a3e9f9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/mat4x3.hpp"
+          },
+          "hashes": {
+            "sha-256": "2c244434cdb5ce457b231a03c5659f1d9ac24e5f52f945b6f29b3885fbfc0c9b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat4x3.hpp"
+          },
+          "hashes": {
+            "sha-256": "aaec60f15c32d8eb55b4ca45f515ded1c3576c63abbe05c27855038925a25de7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat4x3.inl"
+          },
+          "hashes": {
+            "sha-256": "c648705ed3f6397814666cc6566c1eec5ecc81a60ca47ae0e4dbd7ae7d0376d7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/mat4x4.hpp"
+          },
+          "hashes": {
+            "sha-256": "2f3c7cddf48ee1d7fecf3accc3fc14ba71471f060803673fa8ee935a6b4d1287"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat4x4.hpp"
+          },
+          "hashes": {
+            "sha-256": "32a0d332a70348e1f7adfb2debcb08016ed690006800da84b5fd0bebddfa20cf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_mat4x4.inl"
+          },
+          "hashes": {
+            "sha-256": "4b6267e3c7c25df171c57f00f6a8f4e9e7859be14d828b58cffbcb7350b41da9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/trigonometric.hpp"
+          },
+          "hashes": {
+            "sha-256": "8bb13f53dbd09817905943a4ce339b858804b69cac8fabfcd88a63e4cdde1013"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_trigonometric.hpp"
+          },
+          "hashes": {
+            "sha-256": "ec97f41e6337f732b5da5627b94234677e452c6e93f4f12ccab4fa306e4b6a5b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_trigonometric.inl"
+          },
+          "hashes": {
+            "sha-256": "7bc717d2e13574c6a81bf2b562c2750eb3aca7884dd6746c08bc4774f5b15151"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/_vectorize.hpp"
+          },
+          "hashes": {
+            "sha-256": "760611dfce4bf2974e2bd766abd3837e9f40d4bf276bc8b424f3409e18ccbc2e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec1.hpp"
+          },
+          "hashes": {
+            "sha-256": "fbd8766d69dd76da95e81fb58bab3af9d33a4ef4c30e6aebf351fb943094b561"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_vec1.inl"
+          },
+          "hashes": {
+            "sha-256": "32cdc1d896014bd0d2402d1c4fe3fa1081396a4e058e6179bf0fdf06e8f2ecca"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/exponential.hpp"
+          },
+          "hashes": {
+            "sha-256": "2d21aa9126ec23bbc0ab74107b3595e77a62989473bf7ba656805bfe1e6a903e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_exponential.hpp"
+          },
+          "hashes": {
+            "sha-256": "d1909fdb65395589d95553d317c2c282dbf212fea6255f19b160b6b710d65148"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_exponential.inl"
+          },
+          "hashes": {
+            "sha-256": "b05e2d8943f3b29251178c5959da109b621aae547d0a43122579305f1f356ad5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_vector_relational.hpp"
+          },
+          "hashes": {
+            "sha-256": "b7cbf42f320c2cc596f909922cbf6f50f48e8cc0b9d1d7bb118055d003b9259d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_vector_relational.inl"
+          },
+          "hashes": {
+            "sha-256": "483c555114a8314fbbd46c41837649eb4770a05b29c14f19378871b886360b76"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/common.hpp"
+          },
+          "hashes": {
+            "sha-256": "f6d72fd9edbb0d5de2073db2e96156c8f0e3eb5b146efffabe088bd249a1b1e8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_common.hpp"
+          },
+          "hashes": {
+            "sha-256": "e911376c35ed4c3237548c9553e58d1437447b9ab75ad1f1a1112ff81e57548d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_common.inl"
+          },
+          "hashes": {
+            "sha-256": "79a67735375b137071f772289822ea221528c43c93402be82ea240ac05fd4c38"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/packing.hpp"
+          },
+          "hashes": {
+            "sha-256": "7e32e91d27dc50a799cbf697b6de1fa0ab44e4eb65d2e55666da694efbf5333f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_packing.hpp"
+          },
+          "hashes": {
+            "sha-256": "691ad228c4cc61e30cd17cd9eeb06623a2edee239bc1c0b1f9784d420ad2cb44"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_packing.inl"
+          },
+          "hashes": {
+            "sha-256": "2db0c99f8df4da07add7a3e80841ca03e1a4bbff477f0e4306aa459df984ae51"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_half.hpp"
+          },
+          "hashes": {
+            "sha-256": "582a7cef6bc8da72ed2d4ae67cfaa65339955f9e56d9dc250bf4865ce097ec54"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/type_half.inl"
+          },
+          "hashes": {
+            "sha-256": "bf83d32c4500ae42cef8027fce0e3a0570e208c8486c77538e809fc1a6dc120d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/geometric.hpp"
+          },
+          "hashes": {
+            "sha-256": "62e5a15283f2df083cf513664055c7784c84875f1220bb82955a4b899fcf243f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_geometric.hpp"
+          },
+          "hashes": {
+            "sha-256": "e115a8826e0d3e6ae898e3f22c197cfcbe107479e1a1e4a02880ad8c2e052808"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_geometric.inl"
+          },
+          "hashes": {
+            "sha-256": "74ad24d6ceb401610dc4c26a0e04b76151c793b55000007930cb64c916c8b2ee"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/matrix.hpp"
+          },
+          "hashes": {
+            "sha-256": "890ae9e478e19f1e0405b35f421c101c27ad88f63e31d9b101b905c1875f1aee"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_matrix.hpp"
+          },
+          "hashes": {
+            "sha-256": "3bca399a5dcdc913d89b3d300520349852034d89dee117454f72aedceee95381"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_matrix.inl"
+          },
+          "hashes": {
+            "sha-256": "fe4fdf9e0b304e9fd1111fb3ff1c7747fa178ead51d5d7512d5d4855bdfe27e2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/vector_relational.hpp"
+          },
+          "hashes": {
+            "sha-256": "557d2fb50ae3414a2fd457503c1cb1ff914ae0a18a69da47c3b20beb07bc4f04"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/integer.hpp"
+          },
+          "hashes": {
+            "sha-256": "d041abcd6bbb653de5c00afac37a247e53f90eba55e4d0e7eee03795a959449f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_integer.hpp"
+          },
+          "hashes": {
+            "sha-256": "e4758b94dbf0dc9ea34d6178f2e9a94b64efefedf53e470041306078b517b60f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/detail/func_integer.inl"
+          },
+          "hashes": {
+            "sha-256": "af012acd81b3121f8b66b5f5c61acd84c69b817740bed0028b526fa577f397ac"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtc/matrix_transform.hpp"
+          },
+          "hashes": {
+            "sha-256": "875a124a1257a9f7b68bc0d3c7273f7754374e86d90197a8e19f72ae173de343"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtc/constants.hpp"
+          },
+          "hashes": {
+            "sha-256": "3eab80dbbdd846bdfde54bca4d61e762d9fb0bf9c41fcfcea81f3899410b0c3e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtc/constants.inl"
+          },
+          "hashes": {
+            "sha-256": "773f2a934a31620af5a209c245a32a7e0af659f24165ea6d88c0c9187cd592d5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtc/matrix_transform.inl"
+          },
+          "hashes": {
+            "sha-256": "7a1e27989bdaafd567a680250ce3291b7fd15867260542c468f4dee9adb7fc40"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtc/type_ptr.hpp"
+          },
+          "hashes": {
+            "sha-256": "7e6ca319bda9f9b8bf45f41cbf2bb4b0254e3d4f399c132b3473fae482224b95"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtc/quaternion.hpp"
+          },
+          "hashes": {
+            "sha-256": "45085a6ffe7f9432618eb62de068574ed0940b83d6149e70757960f7fcc99bc1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtc/quaternion.inl"
+          },
+          "hashes": {
+            "sha-256": "c120a18802ffd357f16da9e2f565de546615fca423aa0e68ca145a27331327ff"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtc/type_ptr.inl"
+          },
+          "hashes": {
+            "sha-256": "e2505b332dea7d5f5de381bd70cd38869540b6f37cb80b76351b93bdd0989e20"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtx/vector_angle.hpp"
+          },
+          "hashes": {
+            "sha-256": "4cd0c585e07dca96e2142deed705b518f952cd3941b2ed421b5ed32e26bfa46e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtc/epsilon.hpp"
+          },
+          "hashes": {
+            "sha-256": "9d299cf69f6b5eaef6c0850b5cad83f29f01e5efdef8ea3dbb31742e3895ecb7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtc/epsilon.inl"
+          },
+          "hashes": {
+            "sha-256": "eb10d610a5b89549ca54d5fcafb0fe37783ee3295551a905a11969a239aa6da7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtx/quaternion.hpp"
+          },
+          "hashes": {
+            "sha-256": "e4ab249a9e9fded23e50d213ecc440d6352dc9e77af5229b7ee1949700db633a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtx/norm.hpp"
+          },
+          "hashes": {
+            "sha-256": "ddccbeeac9a2f9030c2374dc954e66460bff66b7d84b01a200ac951c591a608d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtx/norm.inl"
+          },
+          "hashes": {
+            "sha-256": "6281f066c703a7296d69eac95485fc5fc353a39cb38423eb03e56084e8fc4684"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtx/quaternion.inl"
+          },
+          "hashes": {
+            "sha-256": "19281deff8507ac2fea38da8a95fbf0d6daeb5130817892da799530456f6ec98"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtx/rotate_vector.hpp"
+          },
+          "hashes": {
+            "sha-256": "1e6b8e8cab2bde724492cae25a5c5aba5cd9bef6e13932eef6abea2b813a34a4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtx/transform.hpp"
+          },
+          "hashes": {
+            "sha-256": "15188e59b8864895c2685621f1d7f8586c13e41dd358ca9c86cb9432c2541fc0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtx/transform.inl"
+          },
+          "hashes": {
+            "sha-256": "74ae06c9c4a2e1311b7bbdde8de359071d05a23daaac4b44e60e2244610b88b9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtx/rotate_vector.inl"
+          },
+          "hashes": {
+            "sha-256": "5a771819e9496f839fa64371c7512ee510276a4f5edfbfa3a84a1c73e0d19e2f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/glm/gtx/vector_angle.inl"
+          },
+          "hashes": {
+            "sha-256": "6c1c015b95c450bcc0ad986f3ad0eb5c6dbc521d09ce906cbce5e939eb076e78"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///f:/tugas kuliah/tugas kuliah/semester 5/grafkom/grafika komputer dan visualisasi/grafika komputer dan visualisasi/deps/include/soil/soil.h"
+          },
+          "hashes": {
+            "sha-256": "d6217516a4c48968d39ab413a0bfc128f860da6a6cbd1125089f073359aa1386"
+          }
+        }
+      ]
+    }
+  ]
+}
